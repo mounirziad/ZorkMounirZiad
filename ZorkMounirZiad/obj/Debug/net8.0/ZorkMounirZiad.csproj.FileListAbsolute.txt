@@ -1,0 +1,14 @@
+C:\Users\Mounir\source\repos\ZorkMounirZiad\ZorkMounirZiad\bin\Debug\net8.0\ZorkMounirZiad.exe
+C:\Users\Mounir\source\repos\ZorkMounirZiad\ZorkMounirZiad\bin\Debug\net8.0\ZorkMounirZiad.deps.json
+C:\Users\Mounir\source\repos\ZorkMounirZiad\ZorkMounirZiad\bin\Debug\net8.0\ZorkMounirZiad.runtimeconfig.json
+C:\Users\Mounir\source\repos\ZorkMounirZiad\ZorkMounirZiad\bin\Debug\net8.0\ZorkMounirZiad.dll
+C:\Users\Mounir\source\repos\ZorkMounirZiad\ZorkMounirZiad\bin\Debug\net8.0\ZorkMounirZiad.pdb
+C:\Users\Mounir\source\repos\ZorkMounirZiad\ZorkMounirZiad\obj\Debug\net8.0\ZorkMounirZiad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mounir\source\repos\ZorkMounirZiad\ZorkMounirZiad\obj\Debug\net8.0\ZorkMounirZiad.AssemblyInfoInputs.cache
+C:\Users\Mounir\source\repos\ZorkMounirZiad\ZorkMounirZiad\obj\Debug\net8.0\ZorkMounirZiad.AssemblyInfo.cs
+C:\Users\Mounir\source\repos\ZorkMounirZiad\ZorkMounirZiad\obj\Debug\net8.0\ZorkMounirZiad.csproj.CoreCompileInputs.cache
+C:\Users\Mounir\source\repos\ZorkMounirZiad\ZorkMounirZiad\obj\Debug\net8.0\ZorkMounirZiad.dll
+C:\Users\Mounir\source\repos\ZorkMounirZiad\ZorkMounirZiad\obj\Debug\net8.0\refint\ZorkMounirZiad.dll
+C:\Users\Mounir\source\repos\ZorkMounirZiad\ZorkMounirZiad\obj\Debug\net8.0\ZorkMounirZiad.pdb
+C:\Users\Mounir\source\repos\ZorkMounirZiad\ZorkMounirZiad\obj\Debug\net8.0\ZorkMounirZiad.genruntimeconfig.cache
+C:\Users\Mounir\source\repos\ZorkMounirZiad\ZorkMounirZiad\obj\Debug\net8.0\ref\ZorkMounirZiad.dll
